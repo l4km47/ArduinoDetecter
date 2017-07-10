@@ -1,2 +1,2 @@
-# Detect_AU
+# ArduinoDetecter
 Detect Arduino Connectted port
